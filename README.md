@@ -1,3 +1,2 @@
 "# git-learn" 
-my first git warehouse
-third change
+there's my learning summary
